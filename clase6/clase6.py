@@ -1,4 +1,8 @@
+#Crear un metodo que muestre el estado del alumno/a: get_estado-->RECURSA(1,2,3),RECUPERA(4,5,6),APROBADO(7,8,9,10)
 
+#MODIFICAR sacar las propiedades nota_uno y nota_dos
+# Ahora la propiedad es materias y cada materia tiene sus 2 notas + promedio final
+#Crear 
 
 
 class Alumno:
